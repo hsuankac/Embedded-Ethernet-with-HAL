@@ -1,0 +1,7 @@
+#ifndef __STM32F7XX_HAL_CONF_H
+#define __STM32F7XX_HAL_CONF_H
+
+
+
+
+#endif
